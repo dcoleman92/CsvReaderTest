@@ -1,0 +1,7 @@
+C:\CsvReaderTest\CsvReaderTest\obj\Debug\CsvReaderTest.csprojAssemblyReference.cache
+C:\CsvReaderTest\CsvReaderTest\obj\Debug\CsvReaderTest.csproj.CoreCompileInputs.cache
+C:\CsvReaderTest\CsvReaderTest\bin\Debug\CsvReaderTest.exe.config
+C:\CsvReaderTest\CsvReaderTest\bin\Debug\CsvReaderTest.exe
+C:\CsvReaderTest\CsvReaderTest\bin\Debug\CsvReaderTest.pdb
+C:\CsvReaderTest\CsvReaderTest\obj\Debug\CsvReaderTest.exe
+C:\CsvReaderTest\CsvReaderTest\obj\Debug\CsvReaderTest.pdb
